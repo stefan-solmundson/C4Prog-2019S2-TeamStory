@@ -13,7 +13,7 @@ This exercise is inspired by http://opensourcerer.diy.org/ which contains step-b
 ### Fork
 First we create a **remote** copy (that means it's stored on Github.com) of a project on our account that stays linked to the original (because we want our changes to affect this original). This is called a **fork**
 
-1. Log into GitHub and go to [https://github.com/ivonetafe/teamstory](https://github.com/ivonetafe/teamstory).
+1. Log into GitHub and go to [https://github.com/PWA-GouldA/C4Prog-2019S2-TeamStory](https://github.com/PWA-GouldA/C4Prog-2019S2-TeamStory).
 2. Near the top right, click `Fork`. This means we're creating a copy of the code onto our account that will be linked to the original on ivonetafe's account. 
 
 

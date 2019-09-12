@@ -53,10 +53,10 @@ Now we're inside our very own copy of the files. Let's use **ls** to *list* the 
 
     ls
 
-You should see a set of filenames that look exactly like the files you see on the website for both ivonetafe and your account page.
+You should see a set of filenames that look exactly like the files you see on the website for both PWA-GouldA and your account page.
 
 ### Connect to Original
-4. We have one last thing to do. Because this is an open project, we can expect that may others will be doing the same as us: forking and cloning and making changes to the files. We want to make sure we're always working with the most up to date files. To ensure this, we'll connect our local copy to the ivonetafe original so that we can **pull** in the most recent changes before we work on ours. If you go back to the ivonetafe page for teamstory, you'll see the HTTP address in the near the top middle: https://github.com/PWA-GouldA/C4Prog-2019S2-TeamStory. We're going to name this connection *upstream*.
+4. We have one last thing to do. Because this is an open project, we can expect that may others will be doing the same as us: forking and cloning and making changes to the files. We want to make sure we're always working with the most up to date files. To ensure this, we'll connect our local copy to the  PWA-GouldA original so that we can **pull** in the most recent changes before we work on ours. If you go back to the  PWA-GouldA page for teamstory, you'll see the HTTP address in the near the top middle: https://github.com/PWA-GouldA/C4Prog-2019S2-TeamStory. We're going to name this connection *upstream*.
 
 Type
 
@@ -108,13 +108,13 @@ Now, finally, we'll actually push our file and message to our fork on Github. Re
     git push origin master
     
 ### Pull Request
-Now our local (computer) version and our fork on Github match. Let's submit our changes to ivonetafe to be added to the original. We're **requesting** they **pull** our changes into their files.
+Now our local (computer) version and our fork on Github match. Let's submit our changes to  PWA-GouldA to be added to the original. We're **requesting** they **pull** our changes into their files.
 
 You do this part online. If you go to your forked version on Github's website, you'll see a button near the top right `Pull Request`, click this.
 
-You'll be taken to a page that shows ivonetafe's original on the left and your fork on the right. Fill out the form to describe to ivonetafe what it is you're suggesting they add and then click `Send pull request`.
+You'll be taken to a page that shows  PWA-GouldA's original on the left and your fork on the right. Fill out the form to describe to  PWA-GouldA what it is you're suggesting they add and then click `Send pull request`.
 
-Now ivonetafe staff will get an alert of your request, be able to see your changes and merge them into the original. Now when the next user forks or pulls and update of this repo, they'll get your updates too!
+Now  PWA-GouldA staff will get an alert of your request, be able to see your changes and merge them into the original. Now when the next user forks or pulls and update of this repo, they'll get your updates too!
 
 WOW! You've just forked, pulled, pushed and pull requested like an open source programming pro!
 

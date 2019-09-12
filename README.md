@@ -47,7 +47,7 @@ Type:
 
 Watch as it copies the files! It will also create a folder for you with the name of the repo. When it's done cloning, move into the repo's folder:
 
-    cd teamstory
+    cd C4Prog-2019S2-TeamStory
 
 Now we're inside our very own copy of the files. Let's use **ls** to *list* the contents of this folder to see what we've got!
 

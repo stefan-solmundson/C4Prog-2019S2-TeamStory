@@ -38,12 +38,12 @@ or
 ### Clone the Repo
 3. Tell Git to go to Github repository on the internet where we are storing our forked files and clone them to where we are right now inside of the teamstory folder. Each repo on github has an address for its location. You'll see it following the HTTP and SSH buttons near the top middle of the page. Click on HTTP, this is the address you'll use. 
 
-**Tip** the http address will look like this: https://github.com/YOURUSERNAME/teamstory.git 
+**Tip** the http address will look like this: https://github.com/YOURUSERNAME/C4Prog-2019S2-TeamStory.git 
 By default our fork's name is *origin* and it is on the *master branch*. 
 
 Type:
 
-    git clone https://github.com/YOURUSERNAME/teamstory.git
+    git clone https://github.com/YOURUSERNAME/C4Prog-2019S2-TeamStory.git
 
 Watch as it copies the files! It will also create a folder for you with the name of the repo. When it's done cloning, move into the repo's folder:
 
@@ -56,11 +56,11 @@ Now we're inside our very own copy of the files. Let's use **ls** to *list* the 
 You should see a set of filenames that look exactly like the files you see on the website for both ivonetafe and your account page.
 
 ### Connect to Original
-4. We have one last thing to do. Because this is an open project, we can expect that may others will be doing the same as us: forking and cloning and making changes to the files. We want to make sure we're always working with the most up to date files. To ensure this, we'll connect our local copy to the ivonetafe original so that we can **pull** in the most recent changes before we work on ours. If you go back to the ivonetafe page for teamstory, you'll see the HTTP address in the near the top middle: https://github.com/ivonetafe/teamstory. We're going to name this connection *upstream*.
+4. We have one last thing to do. Because this is an open project, we can expect that may others will be doing the same as us: forking and cloning and making changes to the files. We want to make sure we're always working with the most up to date files. To ensure this, we'll connect our local copy to the ivonetafe original so that we can **pull** in the most recent changes before we work on ours. If you go back to the ivonetafe page for teamstory, you'll see the HTTP address in the near the top middle: https://github.com/PWA-GouldA/C4Prog-2019S2-TeamStory. We're going to name this connection *upstream*.
 
 Type
 
-    git remote add upstream https://github.com/ivonetafe/teamstory
+    git remote add upstream https://github.com/PWA-GouldA/C4Prog-2019S2-TeamStory
     
 ### Pull Changes
 5. Before we make any additions, we want to make sure we have the latest files by pulling in any changes from the *master* branch *upstream*.

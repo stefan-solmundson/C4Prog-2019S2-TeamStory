@@ -1,5 +1,9 @@
 The Story so far....
 
+// This is a story that everyone can add to. 
+// Add a section and then submit a pull request so that it 
+// becomes a part of the original and someone else can add the next part!
+
 Once upon a time in a universe far away (well any universe is going to be far away from this reality), there lived a unicorn.
 
 
